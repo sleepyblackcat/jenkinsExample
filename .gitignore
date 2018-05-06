@@ -1,5 +1,4 @@
-
-build/*
+*.o
 # Compiled class file
 *.class
 

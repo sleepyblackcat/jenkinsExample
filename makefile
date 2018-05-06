@@ -1,5 +1,5 @@
 all: 
-	g++ main.cpp -o build/main
+	g++ main.cpp -o main
 
 clean:
-	rm -rf build/*
+	rm -rf main
