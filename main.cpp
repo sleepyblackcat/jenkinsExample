@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-int main(){
+int mian(){
 	cout << 1 << endl;
 	return 0;
 }
